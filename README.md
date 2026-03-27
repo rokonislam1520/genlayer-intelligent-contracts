@@ -14,6 +14,8 @@ This repository contains Python-based Intelligent Contracts designed to run on *
 
 ## 📂 Contracts Included
 1. `ai_sentiment_contract.py` : An AI-governed contract that evaluates user messages and updates states based on the sentiment analysis of the input.
+2. `ai_dispute_resolution.py` : A decentralized marketplace arbitration contract. It holds escrow funds and uses AI Validators to read evidence and resolve disputes subjectively.
+1. `ai_sentiment_contract.py` : An AI-governed contract that evaluates user messages and updates states based on the sentiment analysis of the input.
 
 ## 💡 How to Test
 1. Clone this repository.
